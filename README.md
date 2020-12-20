@@ -1,1 +1,2 @@
 # foxhunting
+Fox hunting  is logic-based computer game played on rectangular board 10x10 whose object is to locate 8 randomly-placed foxes on the board by clicking on a cell. If a cell has a fox then imaqge of the fox will be shown otherwise the number of foxes will be shown that are on horizontal vertical or diagonal of the cell.
